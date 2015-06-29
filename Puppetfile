@@ -4,8 +4,8 @@ forge "http://forge.puppetlabs.com"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/ntp"
 mod "puppetlabs/nginx", '0.2.7'
-mod "puppetlabs/concat", "1.2.3"
-mod "puppetlabs/apt", "2.1.0"
+mod "puppetlabs/concat", '1.2.3'
+mod "puppetlabs/apt", '2.1.0'
 
 # Modules from git
 mod 'role',
