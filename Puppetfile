@@ -14,5 +14,5 @@ mod 'profile',
   :git => 'ssh://git@github.com/zoojar/pe-profile'
   
 mod 'nginx',
-  :git => 'ssh://git@github.com/jfryman/puppet-nginx.git'
+  :git => 'ssh://git@github.com/jfryman/puppet-nginx.git',
   :tag => 'v0.2.7'
