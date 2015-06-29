@@ -15,4 +15,4 @@ mod 'profile',
   :git => 'ssh://git@github.com/zoojar/pe-profile'
   
 mod 'nginx',
-  :git => 'ssh://forge.puppetlabs.com/jfryman/nginx
+  :git => 'ssh://forge.puppetlabs.com/jfryman/nginx'
