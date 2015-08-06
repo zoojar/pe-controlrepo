@@ -8,7 +8,7 @@ mod "puppetlabs/apt", '2.1.0'
 
 # Modules from git
 mod 'role',
-  :git => 'ssh://git@github.com/zoojar/pe-role'
+  :git => 'https://git@github.com/zoojar/pe-role'
 
 mod 'profile',
-  :git => 'ssh://git@github.com/zoojar/pe-profile'
+  :git => 'https://git@github.com/zoojar/pe-profile'
