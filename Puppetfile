@@ -9,6 +9,3 @@ mod 'role',
 
 mod 'profile',
   :git => 'https://git@github.com/zoojar/pe-profile'
-
-mod 'node_manager'
-  :git => 'https://github.com/puppetlabs/prosvcs-node_manager'
