@@ -1,6 +1,8 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
+mod 'badgerious-windows_env', '2.2.2'
+mod 'chocolatey-chocolatey', '1.0.2'
 
 # Modules from git
 mod 'role',
