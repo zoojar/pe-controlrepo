@@ -3,6 +3,7 @@ forge "http://forge.puppetlabs.com"
 # Modules from the Puppet Forge
 mod 'puppetlabs-powershell', '1.0.5'
 mod 'badgerious-windows_env', '2.2.2'
+mod 'basti1302-windows_path', '0.1.1'
 mod 'chocolatey-chocolatey', '1.0.2'
 
 # Modules from git
