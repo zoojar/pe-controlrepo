@@ -7,6 +7,7 @@ mod 'basti1302-windows_path', '0.1.1'
 mod 'chocolatey-chocolatey', '1.0.2'
 mod 'puppetlabs-acl', '1.1.1'
 mod 'puppetlabs-registry', '1.1.2'
+mod 'puppetlabs-stdlib', '4.8.0'
 
 # Modules from git
 mod 'role',
