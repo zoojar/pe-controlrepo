@@ -8,7 +8,6 @@ mod 'chocolatey-chocolatey', '1.0.2'
 mod 'puppetlabs-acl', '1.1.1'
 mod 'puppetlabs-registry', '1.1.2'
 mod 'puppetlabs-stdlib', '4.8.0'
-mod 'puppetlabs-dism', '1.1.0'
 mod 'puppet-iis', '1.4.1'
 
 # Modules from git
@@ -20,3 +19,7 @@ mod 'profile',
 
 mod 'node_manager',
   :git => 'https://git@github.com/zoojar/prosvcs-node_manager'
+
+mod 'dism'
+  :git => 'https://git@github.com/puppetlabs/puppetlabs-dism',
+  :commit => '3fbca76c50efe62ed1db9231cecb787c6a52d096'
