@@ -20,6 +20,6 @@ mod 'profile',
 mod 'node_manager',
   :git => 'https://git@github.com/zoojar/prosvcs-node_manager'
 
-mod 'dism'
+mod 'dism',
   :git => 'https://git@github.com/puppetlabs/puppetlabs-dism',
   :commit => '3fbca76c50efe62ed1db9231cecb787c6a52d096'
