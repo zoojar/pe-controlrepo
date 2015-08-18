@@ -6,6 +6,7 @@ mod 'badgerious-windows_env', '2.2.2'
 mod 'basti1302-windows_path', '0.1.1'
 mod 'chocolatey-chocolatey', '1.0.2'
 mod 'puppetlabs-acl', '1.1.1'
+mod 'puppetlabs-registry', '1.1.2'
 
 # Modules from git
 mod 'role',
