@@ -10,6 +10,7 @@ mod 'puppetlabs-registry', '1.1.2'
 mod 'puppetlabs-stdlib', '4.8.0'
 mod 'puppet-iis', '1.4.1'
 mod 'nanliu-staging', '1.0.3'
+mod 'puppetlabs-reboot', '1.1.0'
 
 # Modules from git
 mod 'role',
