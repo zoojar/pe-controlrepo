@@ -9,7 +9,7 @@ mod 'puppetlabs-acl', '1.1.1'
 mod 'puppetlabs-registry', '1.1.2'
 mod 'puppetlabs-stdlib', '4.8.0'
 mod 'puppet-iis', '1.4.1'
-mod 'nanilu-staging', '1.0.3'
+mod 'nanliu-staging', '1.0.3'
 
 # Modules from git
 mod 'role',
