@@ -20,7 +20,8 @@ mod 'role',
   :git => 'https://git@github.com/zoojar/pe-role'
 
 mod 'profile',
-  :git => 'https://git@github.com/zoojar/pe-profile'
+  :git    => 'https://git@github.com/zoojar/pe-profile'
+  :branch => 'master'
 
 mod 'node_manager',
   :git => 'https://git@github.com/zoojar/prosvcs-node_manager'
@@ -31,4 +32,3 @@ mod 'dism',
 
 mod 'gitversion',
   :git => 'https://git@github.com/zoojar/pe-gitversion'
-
