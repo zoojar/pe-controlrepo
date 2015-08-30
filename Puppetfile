@@ -20,7 +20,7 @@ mod 'role',
   :git => 'https://git@github.com/zoojar/pe-role'
 
 mod 'profile',
-  :git    => 'https://git@github.com/zoojar/pe-profile'
+  :git    => 'https://git@github.com/zoojar/pe-profile',
   :branch => 'master'
 
 mod 'node_manager',
