@@ -1,2 +1,11 @@
 ---
-hiera_helper: "This data came from common.yaml"
+db_password: >
+    ENC[PKCS7,MIIBeQYJKoZIhvcNAQcDoIIBajCCAWYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAcAmuPCIo6IYrhhRflKOn95rH0rd7obVJzu78
+    pHT3rG7Dt0nvkjBXLKbUJZWm3tvSdXPixysP5h8Y+tHFXihnxLXxzVDV/Jbm
+    Fdv2duYr5W/YR88qO34CRCiKSyqSDg7U4aD873tUKMbkDk5/TXEIoow5+Yzy
+    eD7cZrmB5yczXyvQFBuzcQguC+4i2RK6XTnB0EOqOC5htZ6SC/j3r3iVW0uA
+    mqfXVKdskgzYKRtdcX0+jcZrDzDIN2wJ8BVj8Stys40RzANlTZsmVyCqLbOI
+    MNQ8CeGvTNj1VfPVobADc/GcF37876LZX/IFJp0dk2qQIDFLGddGs2c+HXT2
+    tqmsczA8BgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBCkkqhtAushs5tI/Zkb
+    sHQigBCvpi6opSZm5X6nmmrwEWZ5]
