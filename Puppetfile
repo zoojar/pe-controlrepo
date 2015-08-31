@@ -14,6 +14,7 @@ mod 'puppetlabs-mysql', '3.6.0'
 mod 'puppet-iis', '1.4.1'
 mod 'nanliu-staging', '1.0.3'
 mod 'puppetlabs-reboot', '1.1.0'
+mod 'puppetlabs-haproxy', '1.3.0'
 
 # Modules from git
 mod 'role',
